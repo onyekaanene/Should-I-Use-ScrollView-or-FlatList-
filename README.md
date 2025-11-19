@@ -1,4 +1,5 @@
 **Should I Use ScrollView or FlatList?**
+
 This question concerns many software developers, sometimes even experienced hands. It is because, in React Native, FlatList and ScrollView components can be used to display lists of content and enable scrolling. 
 However, let us look at their different use cases and abilities to help us decide when to use each.
 
